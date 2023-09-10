@@ -1,5 +1,5 @@
 # Additive-Manufacturing-Sensor-Selection
-Sensor selection for process monitoring based on deciphering acoustic emissions from different dynamics of the Laser Powder Bed Fusion process using Empirical Mode Decompositions and Interpretable Machine Learning
+Optimizing In-situ Monitoring for Laser Powder Bed Fusion Process: Deciphering Acoustic Emission and Sensor Sensitivity with Explainable Machine Learning
 
 
 # Journal link
