@@ -3,12 +3,13 @@ Optimizing In-situ Monitoring for Laser Powder Bed Fusion Process: Deciphering A
 
 
 # Journal link
-https://doi.org/10.1016/j.jmapro.2022.07.033
+https://doi.org/10.1016/j.jmatprotec.2023.118144
 
 # Overview
 
 Metal-based Laser Powder Bed Fusion process (LPBF) has easily facilitated the fabrication of intricately shaped components. But assessing part density is inefficient and relies on costly Computed Tomography (CT) or time-consuming destructive analyses. Inspecting every layer or intermittently hampers machine productivity. To address these challenges, the Additive Manufacturing (AM) field explores real-time monitoring of build quality using sensor signatures and Machine Learning (ML) techniques. One such approach is sensing airborne Acoustic Emissions (AE) from process zone perturbations and comprehending flaw formation for monitoring the LPBF process. This study emphasizes the importance of selecting airborne AE sensors for accurately classifying LPBF dynamics in 316L, utilizing a flat response sensor to capture AE’s during three regimes: Lack of Fusion (LoF), conduction mode, and keyhole pores. To obtain a comprehensive understanding of AE from a broad process space, the data was collected for two different 316L stainless steel powder distributions (> 45 µm and < 45 µm) using two different parameter sets. Frequency domain analysis revealed statistically differentiated LPBF dynamics with dominant frequencies in specific ranges. Empirical Mode Decomposition (EMD) was used to examine the periodicity of AE signals by separating them into constituent signals for comparison. Machine learning classifiers (Convolutional Neural Networks, eXtreme Gradient Boosting, and Support Vector Machines) were trained on transformed AE signals to distinguish regimes. Sensitivity analysis using saliency maps and feature importance scores identified relevant frequency information for decision-making that is below 40 kHz. The study highlights the potential of interpretable machine learning frameworks for identifying crucial frequency ranges in distinguishing LPBF regimes and emphasizes the importance of sensor selection in LPBF process monitoring.  
-![Graphical abstract](https://github.com/vigneashpandiyan/Additive-Manufacturing-Sensor-Selection/assets/39007209/c02e1e88-e4aa-40d6-a7b3-3196134fcb32)
+![Graphical abstract](https://github.com/vigneashpandiyan/Additive-Manufacturing-Sensor-Selection-Acoustic-Emission/assets/39007209/40470ccb-a958-4466-a6f7-a777eb0bd38c)
+
 
 
 # Methodology
