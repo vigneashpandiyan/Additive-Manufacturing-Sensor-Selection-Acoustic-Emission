@@ -28,12 +28,14 @@ python Main.py
 
 # Citation
 ```
-@article{pandiyan2022situ,
-  title={},
-  author={},
-  journal={},
-  volume={},
-  pages={},
-  year={},
-  publisher={Elsevier}
+@article{PANDIYAN2023118144,
+title = {Optimizing In-situ Monitoring for Laser Powder Bed Fusion Process: Deciphering Acoustic Emission and Sensor Sensitivity with Explainable Machine Learning},
+journal = {Journal of Materials Processing Technology},
+pages = {118144},
+year = {2023},
+issn = {0924-0136},
+doi = {https://doi.org/10.1016/j.jmatprotec.2023.118144},
+url = {https://www.sciencedirect.com/science/article/pii/S0924013623002893},
+author = {Vigneashwara Pandiyan and Rafał Wróbel and Christian Leinenbach and Sergey Shevchik},
+keywords = {Laser Powder Bed Fusion, Process Monitoring, Empirical Mode Decomposition, Acoustic Emission, Explainable AI (XAI)},
 }
